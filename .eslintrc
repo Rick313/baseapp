@@ -1,0 +1,9 @@
+{
+  "extends": "eslint:recommended",
+  "parserOptions": {"ecmaVersion": "latest"},
+  "ignorePatterns": [
+    "node_modules", 
+    "**/*.test.js", 
+    "**/*.spec.js"
+  ]
+}

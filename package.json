@@ -6,11 +6,12 @@
     "webclient:build": "npm run build -w apps/webclient"
   },
   "author": "RAFAIDEEN Richard",
-  "license": "ISC",
+  "license": "MIT",
   "description": "",
   "devDependencies": {
     "prettier": "^3.2.5",
-    "prettier-eslint": "^16.3.0"
+    "prettier-eslint": "^16.3.0",
+    "rollup-plugin-livereload": "^2.0.5"
   },
   "workspaces": [
     "apps/webclient"

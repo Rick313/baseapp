@@ -6,7 +6,7 @@
     "webclient:build": "npm run build -w apps/webclient"
   },
   "author": "RAFAIDEEN Richard",
-  "license": "ISC",
+  "license": "MIT",
   "description": "",
   "devDependencies": {
     "prettier": "^3.2.5",
